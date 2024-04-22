@@ -16,6 +16,8 @@
 
 [JSON Formatter](https://jsonformatter.org/)
 
+[JSON Placeholder](https://jsonplaceholder.typicode.com/)
+
 [JS Fiddle](https://jsfiddle.net/)
 
 [DotNet Fiddle](https://dotnetfiddle.net/)
