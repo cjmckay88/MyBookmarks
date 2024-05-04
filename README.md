@@ -32,6 +32,8 @@
 
 [JWT](https://jwt.io/)
 
+[PasteBin](https://pastebin.com)
+
 ## Offline Dev Tools
 
 [Linq Pad](https://linqpad.net/)
